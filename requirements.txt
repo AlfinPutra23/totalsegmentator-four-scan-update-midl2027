@@ -1,0 +1,12 @@
+# versions the study ran with (Python 3.10.12)
+TotalSegmentator==2.13.0
+nnunetv2==2.7.0
+torch==2.11.0
+numpy==2.2.6
+scipy==1.15.3
+nibabel==5.4.2
+SimpleITK==2.5.5
+pydicom==3.0.2
+matplotlib==3.10.9
+huggingface_hub==1.17.0
+monai==1.6.0
